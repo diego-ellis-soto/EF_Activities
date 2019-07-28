@@ -1,6 +1,8 @@
 EF_Activities
 =============
 
+git status git save git commit -am "first change during class" git push git add .
+
 Hands-on activities associated with the Ecological Forecasting book and graduate class
 
 Book: Dietze, M. 2017. Ecological Forecasting. Princeton University Press  https://ecoforecast.org/book
